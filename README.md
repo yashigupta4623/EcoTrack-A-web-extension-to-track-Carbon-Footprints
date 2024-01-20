@@ -6,7 +6,7 @@ A Chrome Extension that detects Carbon Footprint you left on the internet while 
 
 ### 🚀 Getting Started 
 ```
-https://github.com/santacodes/carbonfootprint.git
+https://github.com/Aparnacodes/EcoTrack-A-web-extension-to-track-Carbon-Footprints
 ```
 Check if all files are in
 
