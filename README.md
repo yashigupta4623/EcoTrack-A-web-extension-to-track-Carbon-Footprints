@@ -17,7 +17,7 @@ Go to the Extensions Tab in your Chrome Extensions and Enable Developer Mode
 Then Unload files from the cloned repository
 
 ### A Detailed Presentation on Carbon Footprint:
-[Presentation regarding here](https://docs.google.com/presentation/d/1lFvxyfAQjaWyZ1-IylMjPH09-B7yv3dOSmIquqX8u_8/edit#slide=id.g1f18d4677c5_2_1339)
+[Presentation regarding here](https://drive.google.com/file/d/1QpRUZFh_-WhV9AcMMbunyOKfx3Kqq-Kg/view?usp=sharing)
 
 ### 🕹️ Working
 
@@ -34,6 +34,7 @@ Then Unload files from the cloned repository
 ![](./images/2.png)
 
 ## Team Members/Contributors 
-[Santhosh Sundaram](https://github.com/santacodes) - AU, Trichy
-
-[Bharat Naik](https://github.com/Naik-Bharat) - NSUT, New Delhi
+Aparna Kumari - 4134 
+Yashi Tripathi - 4132
+Mahima Maurya - 4191
+Yashi Gupta - 4179
