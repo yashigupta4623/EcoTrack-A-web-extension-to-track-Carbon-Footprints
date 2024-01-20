@@ -34,7 +34,7 @@ Then Unload files from the cloned repository
 ![](./images/2.png)
 
 ## Team Members/Contributors 
-Aparna Kumari - 4134 
-Yashi Tripathi - 4132
-Mahima Maurya - 4191
-Yashi Gupta - 4179
+Aparna Kumari - 4134 <br>
+Yashi Tripathi - 4132 <br>
+Mahima Maurya - 4191 <br>
+Yashi Gupta - 4179 <br>
