@@ -29,11 +29,11 @@ Then Unload files from the cloned repository
 - Along with this, **Dashboard** Screen for all Ranking Webistes based off emissions and a detailed information on the amount of resources utilised while browsing. 
 
 ### Sample Screenshots
-
-![](./images/1.png) 
-![](./images/2.png)
+![co1](https://github.com/user-attachments/assets/78b3dec5-f51a-4aa6-8a0f-3dcbae283f86)
+![co2](https://github.com/user-attachments/assets/c560d5b2-5977-46b5-9c9f-bd9c815e6566)
 
 ## Team Members/Contributors 
+
 Aparna Kumari - 4134 <br>
 Yashi Tripathi - 4132 <br>
 Mahima Maurya - 4191 <br>
